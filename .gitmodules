@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ctrdata"]
+	path = ctrdata
+	url = https://github.com/rfhb/ctrdata
+	shallow = true
+	registered = true
